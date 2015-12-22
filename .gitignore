@@ -3,3 +3,5 @@ app/fonts
 bootstrap.js
 app/styles
 jquery.js
+bower_components
+node_modules
