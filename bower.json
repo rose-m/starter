@@ -1,0 +1,24 @@
+{
+  "name": "starter",
+  "description": "Basic starter template for playing around with JavaScript / HTML / SASS.",
+  "main": "index.js",
+  "authors": [
+    "rosem <michael_rose@gmx.de>"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.6"
+  }
+}
