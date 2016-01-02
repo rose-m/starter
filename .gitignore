@@ -1,5 +1,6 @@
 .sass-cache
 app/fonts
 app/styles
+app/scripts
 bower_components
 node_modules
