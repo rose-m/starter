@@ -19,7 +19,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap-sass": "~3.3.6",
-    "traceur": "~0.0.93"
+    "bootstrap-sass": "~3.3.6"
   }
 }
